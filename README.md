@@ -1,1 +1,4 @@
 # template-typescript
+
+* Run
+tsc
