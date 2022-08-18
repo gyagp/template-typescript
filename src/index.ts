@@ -1,3 +1,4 @@
-// npm install -g typescript
-// tsc main.ts
-console.log('hello typescript');
+import {test} from './util'
+
+test();
+test('haha');
